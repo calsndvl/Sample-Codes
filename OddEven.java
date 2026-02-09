@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArrayPractice{
+public class OddEven{
 static Scanner s = new Scanner (System.in);
   public static void main(String cals[]){
 
